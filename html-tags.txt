@@ -1,5 +1,5 @@
 HTML Basic Tags
-Tag	             Description
+Tag              Description
 <!DOCTYPE>       It defines the document type
 <html>           It is the root of HTML document
 <head>           It defines the head of an HTML document that contains non-visible data like metadata and other information
@@ -11,7 +11,7 @@ Tag	             Description
 <hr>             It creates a horizontal line in a webpage
 
 Formatting tags
-Tag	             Description
+Tag              Description
 <b>              It is used to define bold text
 <strong>         It is used to define important text, add more semantic meaning to the tag
 <i>              It formats text in italic form
@@ -41,7 +41,7 @@ Tag	             Description
 <var>            It is used to define some variable in a computer program or in a mathematical expression
 
 Image tags
-Tag	             Description
+Tag              Description
 <img>            It defines image on webpage
 <figure>         It defines a self-contained container for image, code snippets, diagrams, etc
 <figcaption>     It defines a caption for the <figure>
@@ -52,22 +52,22 @@ Tag	             Description
 <svg>            It defines a container for SVG image
 
 Link or navigation tags
-Tag	             Description
+Tag              Description
 <a>              It defines a hyperlink to connect to other webpages
 <link>           It defines connects other document with HTML document or defines some relationship
 <nav>            It used to wrap navigation links
 
 List tags
-Tag	Description
-<ol>	         It defines an ordered list
-<ul>	         It defines an unordered list
-<li>         	 It defines an item in a list
-<dl>         	 It defines a description list
-<dt>         	 It defines name or tern in description list
-<dd>	         It defines description of item in the description list
+Tag              Description
+<ol>             It defines an ordered list
+<ul>             It defines an unordered list
+<li>             It defines an item in a list
+<dl>             It defines a description list
+<dt>             It defines name or tern in description list
+<dd>             It defines description of item in the description list
 
 Form and input tags
-Tag	             Description
+Tag              Description
 <form>           It is used to create a form on webpage
 <input>          It defines input of different type
 <label>          It defines label for the <input> element
@@ -81,7 +81,7 @@ Tag	             Description
 <button>         It defines a button
 
 Table tags
-Tag	             Description
+Tag              Description
 <table>          It defines a table
 <thead>          It groups the head content of the table
 <tbody>          It groups the body content of the table
@@ -94,24 +94,24 @@ Tag	             Description
 <col>            It gives a property to the column within the <colgroup>
 
 Media tags
-Tag	             Description
+Tag              Description
 <audio>          Used to define audio content on the webpage
 <video>          Used to define video content on the webpage
 <track>          It defines text track (subtitle) for the audio and video
 <source>         It specify multiple resources fro the media like audio, video and picture
 
 Meta tags
-Tag	             Description
+Tag              Description
 <meta>           It defines metadata about the webpage (not visible to users)
 <link>           It defines a base URL for all the relative URLs of the webpage
 
 Style and programming tags
-Tag	             Description
+Tag              Description
 <style>          It is used to provide CSS for the HTML elements of the document
 <script>         It defines javascript program for the webpage
 
 General tags
-Tag	             Description
+Tag              Description
 <div>            It defines a group of elements within the HTML document
 <span>           It defines an inline section within the document
 <header>         It defines header of the webpage or a section
