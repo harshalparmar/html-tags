@@ -69,11 +69,11 @@ Tag	Description
 Form and input tags
 Tag	             Description
 <form>           It is used to create a form on webpage
-<input>	         It defines input of different type
-<label>	         It defines label for the <input> element
-<textarea>	     It defines resizable multi-line plain text input
+<input>          It defines input of different type
+<label>          It defines label for the <input> element
+<textarea>       It defines resizable multi-line plain text input
 <select>         It provides a control to select from multiple options
-<optgroup>	     It defines a group of otions in <select> element
+<optgroup>       It defines a group of otions in <select> element
 <option>         It defines an item to select within <select> element
 <fieldset>       It defines group of multiple labels and inputs
 <legend>         It defines a caption for a <fieldset>
